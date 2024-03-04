@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Jade/Documents/SQL Practice/Codecademy Data Science Project - Chinook DB/chinook/chinook.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="150"/><column_width id="3" width="6053"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,8:maininvoices"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="albums" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="100"/><column index="2" value="300"/><column index="3" value="90"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="artists" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="90"/><column index="2" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="customers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="131"/><column index="2" value="115"/><column index="3" value="125"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="199"/><column index="7" value="65"/><column index="8" value="149"/><column index="9" value="123"/><column index="10" value="199"/><column index="11" value="189"/><column index="12" value="282"/><column index="13" value="156"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="employees" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="133"/><column index="2" value="111"/><column index="3" value="115"/><column index="4" value="187"/><column index="5" value="115"/><column index="6" value="195"/><column index="7" value="195"/><column index="8" value="275"/><column index="9" value="102"/><column index="10" value="65"/><column index="11" value="92"/><column index="12" value="123"/><column index="13" value="178"/><column index="14" value="178"/><column index="15" value="256"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="genres" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="96"/><column index="2" value="172"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="invoice_items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="153"/><column index="2" value="111"/><column index="3" value="91"/><column index="4" value="105"/><column index="5" value="99"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="invoices" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="111"/><column index="2" value="131"/><column index="3" value="195"/><column index="4" value="300"/><column index="5" value="199"/><column index="6" value="129"/><column index="7" value="156"/><column index="8" value="187"/><column index="9" value="62"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="media_types" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="145"/><column index="2" value="253"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="playlist_track" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="108"/><column index="2" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="playlists" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="108"/><column index="2" value="237"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="61"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_stat1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="129"/><column index="2" value="300"/><column index="3" value="107"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tracks" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="91"/><column index="2" value="300"/><column index="3" value="100"/><column index="4" value="145"/><column index="5" value="96"/><column index="6" value="300"/><column index="7" value="135"/><column index="8" value="95"/><column index="9" value="105"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Tracks in Playlist">-- Creating joined table to get track name --
+
+WITH playlist_tracks_join AS (SELECT *
+FROM playlist_track
+LEFT JOIN tracks
+	ON playlist_track.TrackId = tracks.TrackID)
+
+-- Calculating top 100 tracks which appear in most playlists --	
+SELECT TrackId, Name, COUNT(PlaylistId) AS 'Number of Playlists'
+FROM playlist_tracks_join
+GROUP BY TrackId
+ORDER BY COUNT(PlaylistId) DESC
+LIMIT 100;
+
+
+	</sql><sql name="Track Most Revenue - Album and Genre">-- Track which generated most revenue --
+SELECT invoice_items.TrackId, tracks.name, SUM(invoice_items.UnitPrice) AS 'Total Revenue'
+FROM invoice_items
+INNER JOIN tracks
+	ON invoice_items.TrackId = tracks.TrackId
+GROUP BY invoice_items.TrackId
+ORDER BY SUM(invoice_items.UnitPrice) DESC
+LIMIT 1;
+
+-- Album which generated most revenue -- 
+SELECT albums.AlbumId, albums.Title, SUM(invoice_items.UnitPrice) AS 'Total Revenue'
+FROM invoice_items
+INNER JOIN tracks
+	ON invoice_items.TrackId = tracks.TrackId
+INNER JOIN albums
+	ON tracks.AlbumId = albums.AlbumId
+GROUP BY tracks.AlbumId
+ORDER BY SUM(invoice_items.UnitPrice) DESC
+LIMIT 1;
+
+-- Genre which generated the most revenue --
+SELECT genres.GenreId, genres.Name, SUM(invoice_items.UnitPrice) AS 'Total Revenue'
+FROM invoice_items
+INNER JOIN tracks
+	ON invoice_items.TrackId = tracks.TrackId
+INNER JOIN genres
+	ON tracks.GenreId = genres.GenreId
+GROUP BY tracks.GenreId
+ORDER BY SUM(invoice_items.UnitPrice) DESC
+LIMIT 1;</sql><sql name="Revenue by Country">-- Countries with highest sale revenue --
+SELECT invoices.BillingCountry AS 'Country', SUM(invoices.Total) AS 'Total Revenue'
+FROM invoices
+GROUP BY invoices.BillingCountry
+ORDER BY SUM(invoices.Total) DESC
+LIMIT 10;
+
+-- % of total revenue by country --
+SELECT 
+	invoices.BillingCountry,
+	ROUND(SUM(invoices.Total),2) AS 'Total Revenue',
+	ROUND(SUM(invoices.Total) * 100 /
+	(SELECT SUM(invoices.Total) FROM invoices),2) AS '% of Overall Total Revenue'
+FROM invoices
+GROUP BY invoices.BillingCountry
+ORDER BY SUM(invoices.Total) DESC;</sql><sql name="Employee Performance - Customers, Average Revenue and Total Revenue">-- Number of customers employees supported --
+SELECT employees.EmployeeId, employees.FirstName AS 'Employee First Name', employees.LastName AS 'Employee Last Name',
+	COUNT(customers.CustomerId) AS 'Number of Customers Supported'
+FROM employees
+LEFT JOIN customers
+	ON employees.EmployeeId = customers.SupportRepId
+GROUP BY employees.EmployeeId
+ORDER BY 4 DESC;
+
+-- Employee's average sales revenue and total revenue --
+SELECT employees.EmployeeId, employees.FirstName AS 'Employee First Name', employees.LastName AS 'Employee Last Name', 
+	ROUND(AVG(invoices.Total), 1) AS 'Average Sales Revenue', ROUND(SUM(invoices.Total), 1) AS 'Total Revenue'
+FROM employees
+INNER JOIN customers
+	ON employees.EmployeeId = customers.SupportRepId
+INNER JOIN invoices
+		ON customers.CustomerId = invoices.CustomerId
+GROUP BY employees.EmployeeId;		</sql><sql name="Revenue by Album Length ">-- Album length (number of tracks)
+WITH album_length AS(
+	SELECT 
+	tracks.albumId AS 'AlbumId',
+	COUNT(*) AS 'Number of Tracks'
+FROM tracks
+GROUP BY 1
+)
+SELECT 
+	album_length.'Number of Tracks',
+	COUNT(DISTINCT album_length.AlbumId) AS 'Total Number of Albums',
+	ROUND(SUM(invoice_items.UnitPrice),2) AS 'Total Revenue of Albums',
+	ROUND(SUM(invoice_items.UnitPrice)/COUNT(DISTINCT album_length.AlbumId),2) AS 'Average Revenue Per Album'
+FROM invoice_items
+JOIN tracks
+	ON tracks.TrackId = invoice_items.TrackId
+JOIN album_length
+	ON album_length.AlbumId = tracks.AlbumId
+GROUP BY 1;
+</sql><sql name="Track Revenue by Playlist Appearance">WITH playlist_appearances AS 
+(SELECT tracks.TrackId, tracks.Name AS 'Track Name', COUNT(tracks.TrackId) AS 'Number of Playlist Appearances'
+FROM playlist_track
+JOIN tracks
+	ON playlist_track.TrackId = tracks.TrackId
+GROUP BY 1)
+
+SELECT playlist_appearances.'Number of Playlist Appearances', 
+	COUNT(DISTINCT(playlist_appearances.TrackId)) AS 'Number of Tracks',
+	ROUND(SUM(invoice_items.UnitPrice), 2) AS 'Total Track Revenue',
+	ROUND(SUM(invoice_items.UnitPrice)/COUNT(DISTINCT(playlist_appearances.TrackId)), 2) AS 'Average Revenue Per Track'
+FROM playlist_appearances
+JOIN invoice_items
+	ON playlist_appearances.TrackId = invoice_items.TrackId
+GROUP BY 1;</sql><sql name="Year on Year Revenue">WITH revenue AS(
+	SELECT 
+		CAST(strftime('%Y', invoices.InvoiceDate) AS int)-1 AS 'Previous Year',
+		CAST(strftime('%Y', invoices.InvoiceDate) AS int) AS 'Current Year',
+		ROUND(SUM(invoices.Total),2) AS 'Total Revenue'
+	FROM invoices
+	GROUP BY 2
+)
+SELECT 
+	cur.'Previous Year',
+	prev.'Total Revenue',
+	cur.'Current Year',
+	cur.'Total Revenue',
+	ROUND((cur.'Total Revenue' - prev.'Total Revenue') /
+		prev.'Total Revenue' * 100, 2) AS '% Change'
+FROM revenue cur
+JOIN revenue prev
+	ON prev.'Current Year' = cur.'Previous Year';</sql><current_tab id="6"/></tab_sql></sqlb_project>
